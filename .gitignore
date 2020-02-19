@@ -1,0 +1,6 @@
+logs*
+processed_data*/
+siamese_weights/
+split_*/
+weights/
+*.h5
